@@ -1,0 +1,9 @@
+ls 
+git init 
+git add 
+git add .
+git status
+git commit -m "Add testing.py"
+git restore testing.py
+git remote set-url origin https://token@github.com profilename/foldername to create in github repo
+git push origin master # master ka matlab h ki local , local se global , but global m ye main hoti h 
