@@ -8,5 +8,7 @@ git rm testing.py
 git restore testing.py
 git remote set-url origin https://token@github.com profilename/foldername to create in github repo
 git push origin master # master ka matlab h ki local , local se global , but global m ye main hoti h 
-git remote add origin https://profilelink
+git remote add origin https://profilelink>
 
+
+hlo
