@@ -1,1 +1,6 @@
-print("hello this is testing")
+def hello():
+    """"
+    thid is a test function
+    """
+    print("hello world")
+    hello()
